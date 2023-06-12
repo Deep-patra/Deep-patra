@@ -41,6 +41,10 @@ I am a freelance developer from INDIA. I am currently working on improving mysel
   <a href="https://twitter.com/Deeppat97421963">
     <img src="assets/twitter.png" class="social" alt="Twitter" />
   </a>
+
+  <a href="https://www.linkedin.com/in/deep-patra-baa8461b0/">
+    <img src="assets/linkedin.png" class="social" alt="Linkedin" />
+  </a>
 </span>
 
 Cheers🍻
